@@ -11,7 +11,7 @@ module.exports.config = {
  name: "🥺",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "Islamick Chat",
+ credits: "𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑",
  description: "auto reply to salam",
  commandCategory: "noprefix",
  usages: "🥺",
